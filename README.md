@@ -1,4 +1,9 @@
 # EXNO2DS
+```
+DONE BY:
+NAME- G.T.GOWTHAM
+REG NO - 212224110017
+```
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -23,7 +28,9 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
+
 ```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
